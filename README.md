@@ -17,16 +17,9 @@ O objetivo principal do DocuMentor é garantir que os estudantes consigam tirar 
    - Resolução de exercícios.
    - Auxílio em projetos e trabalhos.
 
-2. **Apoio em Atividades Práticas** 📝: Orienta na execução de tarefas práticas essenciais para a profissão, como:
-   - Preenchimento de formulários.
-   - Processos de licenciamento e transferência de veículos.
-   - Emissão de notas fiscais.
+2. **Resolução de Dúvidas Complexas** ❓: Responde a perguntas complexas de forma lógica e estruturada, dividindo as respostas em etapas para maior clareza, com exemplos práticos sempre que possível.
 
-3. **Resolução de Dúvidas Complexas** ❓: Responde a perguntas complexas de forma lógica e estruturada, dividindo as respostas em etapas para maior clareza, com exemplos práticos sempre que possível.
-
-4. **Revisão de Conteúdo Acadêmico** 📚: Revisita tópicos já estudados, reforçando os pontos-chave e sugerindo exercícios de fixação ou leituras adicionais.
-
-5. **Simulações de Cenários Reais** 🛂: Apresenta simulações de situações profissionais comuns, como o processamento de documentação de veículos e gestão de demandas de clientes.
+3. **Revisão de Conteúdo Acadêmico** 📚: Revisita tópicos já estudados, reforçando os pontos-chave e sugerindo exercícios de fixação ou leituras adicionais.
 
 ## **Comportamento e Tom de Resposta** 🗣️
 
@@ -36,16 +29,37 @@ O objetivo principal do DocuMentor é garantir que os estudantes consigam tirar 
 
 - **Concisão com Profundidade** ⚖️: Fornece respostas completas e informativas sem ser prolixo, ajustando a profundidade das informações ao nível de entendimento do estudante.
 
-- **Feedback Constante** 🔄: Após cada orientação, o DocuMentor verifica se o estudante tem mais dúvidas, oferecendo um acompanhamento contínuo.
+## **Ajustes Realizados Durante o Desenvolvimento** 🛠️
 
-## **Conclusão de Tarefas** ✅
+Durante o desenvolvimento, o DocuMentor apresentou o erro: 
 
-- **Resumo dos Pontos Discutidos** 📝: Ao finalizar uma orientação, o copiloto faz um resumo dos principais pontos abordados.
-  
-- **Sugestão de Próximos Passos** 📈: Recomenda práticas recomendadas, tópicos para revisão futura ou materiais de estudo adicionais, como artigos, manuais ou legislação vigente.
+> **“Mensagem de erro: O comprimento das instruções do prompt excede o limite”**
+>
+> **Código do erro: openaiadditionalinstructionslengthexceededlimit**
+>
+> **ID da conversa: 13727a59-faf4-4641-9e1e-c3989ef2b818**
+>
+> **Horário (UTC): 2024-09-11T17:51:38.671Z Copilot Studio**
+
+Após identificar que o problema estava relacionado ao excesso de caracteres nas instruções, ajustei as informações para o limite solicitado, o que permitiu a continuidade do projeto. Também desabilitei as Lições 1, 2 e 3, por apresentarem recursos desnecessários. Além disso, incluí informações relevantes na seção de **Conversation Boosting**, garantindo que a IA buscasse os conhecimentos fornecidos por mim.
+
+## **Testes de Assertividade** ✔️
+
+Para validar o desempenho do DocuMentor, utilizei perguntas de módulos acadêmicos. A IA respondeu corretamente com base em suas instruções, mas ao comparar com o gabarito oficial, a resposta parecia incorreta. No entanto, ao verificar com fontes externas, ficou evidente que o gabarito da escola estava errado e que a IA, na verdade, havia acertado.
+
+**Imagem sugerida**: Foto da pergunta e resposta correta fornecida pelo DocuMentor, destacando o erro do gabarito oficial e a correção da IA.
+
+## **Inclusão de Conhecimento no Conversation Boosting** 🔍
+
+Os tópicos dos módulos desativados foram ajustados e as lições restantes foram incluídas no **Conversation Boosting**. Isso permitiu à IA fornecer respostas com mais precisão e agilidade, utilizando diretamente o material que eu disponibilizei em formato PDF e TXT.
+
+## **Mensagem de Boas-Vindas Personalizada** ✉️
+
+Atualizei a mensagem de boas-vindas da IA para explicar de forma clara suas funcionalidades e como ela pode auxiliar os estudantes. A nova mensagem foi ajustada para um tom mais didático e formal, alinhado ao público-alvo.
+
+**Imagem sugerida**: Tela inicial do DocuMentor com a nova mensagem de boas-vindas.
 
 ---
-
 🚀 **DocuMentor está em constante evolução!** Fique de olho nas atualizações e sinta-se à vontade para contribuir com feedbacks e sugestões.
 
 
