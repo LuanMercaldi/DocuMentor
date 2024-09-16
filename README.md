@@ -1,9 +1,5 @@
 # **DocuMentor** 🚀📚
 
-**Status do Projeto**: 🚧 Em Desenvolvimento
-
-## **Descrição do Projeto** 📝
-
 DocuMentor é um copiloto criado para auxiliar em minha jornada acadêmica no curso de Despachante Documentalista. Com um tom formal e didático, o DocuMentor atua como um tutor dedicado, fornecendo explicações claras, revisando conceitos fundamentais e orientando nas atividades práticas da profissão. Ele está sendo projetado para atender tanto iniciantes na área quanto estudantes com algum conhecimento que buscam aperfeiçoamento.
 
 ## **Objetivo** 🎯
@@ -68,7 +64,8 @@ Os tópicos dos módulos desativados foram ajustados e as lições restantes for
 
 Atualizei a mensagem de boas-vindas da IA para explicar de forma clara suas funcionalidades e como ela pode auxiliar os estudantes. A nova mensagem foi ajustada para um tom mais didático e formal, alinhado ao público-alvo.
 
-**Imagem sugerida**: Tela inicial do DocuMentor com a nova mensagem de boas-vindas.
+![image](https://github.com/user-attachments/assets/8c6b1369-ccc8-475c-92e5-530cb21559b8)
+
 
 ---
 🚀 **DocuMentor está em constante evolução!** Fique de olho nas atualizações e sinta-se à vontade para contribuir com feedbacks e sugestões.
