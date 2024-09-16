@@ -47,7 +47,18 @@ Após identificar que o problema estava relacionado ao excesso de caracteres nas
 
 Para validar o desempenho do DocuMentor, utilizei perguntas de módulos acadêmicos. A IA respondeu corretamente com base em suas instruções, mas ao comparar com o gabarito oficial, a resposta parecia incorreta. No entanto, ao verificar com fontes externas, ficou evidente que o gabarito da escola estava errado e que a IA, na verdade, havia acertado.
 
-**Imagem sugerida**: Foto da pergunta e resposta correta fornecida pelo DocuMentor, destacando o erro do gabarito oficial e a correção da IA.
+**Pergunta e Resposta Feito para a IA**
+
+![Teste](https://github.com/user-attachments/assets/0373ee5b-81f1-4a64-8868-f646308683f3)
+
+**Resposta Certa Segundo o Gabarito**
+
+![Resp Correta Segundo a Facul](https://github.com/user-attachments/assets/d35bf0f1-a50a-4c5f-af9c-fb6d99b4a5cd)
+
+**Resposta Certa Segundo o Concurso**
+
+![Resp certa segundo o concurso](https://github.com/user-attachments/assets/2f342174-9c5d-4793-bd9f-4a7adde75e55)
+
 
 ## **Inclusão de Conhecimento no Conversation Boosting** 🔍
 
